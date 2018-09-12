@@ -1,0 +1,14 @@
+{
+    "private": true,
+    "name": "mytory/android-push-test",
+    "authors": [
+        {
+            "name": "mytory",
+            "email": "mytory@gmail.com"
+        }
+    ],
+    "require": {
+        "donatj/CLI-Toolkit": "^0.2.0",
+        "redjanym/php-firebase-cloud-messaging": "^1.1"
+    }
+}
